@@ -14,27 +14,23 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## <div align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me</div>
+## <div align="center">🧐 About Me</div>
 
 <div align="center">
-
-```javascript
-const soozu = {
+  <pre><code class="language-javascript">const soozu = {
   languages: ["Python", "JavaScript", "PHP", "HTML", "CSS"],
   frameworks: ["React.js", "Node.js", "Laravel"],
   interests: ["Web Development", "Automation", "Educational Tools"],
   currentFocus: "Building user-friendly web applications",
   funFact: "I love turning complex problems into elegant solutions!"
-};
-```
-
+};</code></pre>
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## <div align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Skills</div>
+## <div align="center">🛠️ Skills</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -79,7 +75,7 @@ const soozu = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## <div align="center"><img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> GitHub Stats</div>
+## <div align="center">📊 GitHub Stats</div>
 
 <div align="center">
   <table>
@@ -102,7 +98,7 @@ const soozu = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## <div align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me</div>
+## <div align="center">📫 Connect With Me</div>
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
