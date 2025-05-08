@@ -37,7 +37,19 @@ const soozu = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Soozu&show_icons=true&theme=radical" alt="Soozu's GitHub Stats" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soozu&theme=radical" alt="Soozu's GitHub Streak" />
+</div>
+
+<div align="center">
+  <h3>King's GitHub Stats</h3>
+  ⭐ Total Stars Earned: 1<br/>
+  🕒 Total Commits (2025): 153<br/>
+  🔄 Total PRs: 2<br/>
+  ⚠️ Total Issues: 0<br/>
+  📊 Contributed to (last year): 2
 </div>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
