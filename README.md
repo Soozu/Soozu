@@ -10,9 +10,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Python+%7C+React.js+%7C+PHP+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+## <div align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me</div>
+
+<div align="center">
 
 ```javascript
 const soozu = {
@@ -24,9 +28,13 @@ const soozu = {
 };
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Skills
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## <div align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Skills</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -67,12 +75,23 @@ const soozu = {
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> GitHub Stats
+## <div align="center"><img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> GitHub Stats</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soozu&show_icons=true&theme=radical" alt="Soozu's GitHub Stats" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Soozu&show_icons=true&theme=radical" alt="Soozu's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soozu&layout=compact&theme=radical" alt="Soozu's Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
@@ -84,21 +103,47 @@ const soozu = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soozu&layout=compact&theme=radical" alt="Soozu's Top Languages" />
+  <h3>King's GitHub Stats</h3>
+  <table>
+    <tr>
+      <td>
+        <p align="center">
+          <b>Total Contributions</b><br>
+          218
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <b>Current Streak</b><br>
+          1
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <b>Longest Streak</b><br>
+          4
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  </div>
+
+  <h3 align="center">Most Used Languages</h3>
+  <p align="center">
+    PHP: 58.09% | CSS: 4.16%<br/>
+    JavaScript: 29.88% | Python: 0.64%<br/>
+    Fluent: 6.99% | TypeScript: 0.24%
+  </p>
 </div>
 
 <div align="center">
-  <h3>King's GitHub Stats</h3>
-  ⭐ Total Stars Earned: 1<br/>
-  🕒 Total Commits (2025): 153<br/>
-  🔄 Total PRs: 2<br/>
-  ⚠️ Total Issues: 0<br/>
-  📊 Contributed to (last year): 2
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
+## <div align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me</div>
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -113,11 +158,13 @@ const soozu = {
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-## 🚀 Featured Projects
+## <div align="center">🚀 Featured Projects</div>
 
-<table>
+<table align="center">
   <tr>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/Soozu/stove-account-generator">Stove Account Generator</a></h3>
@@ -129,7 +176,7 @@ const soozu = {
           <img src="https://img.shields.io/badge/Tools-Automation-informational?style=flat&logo=selenium&logoColor=white&color=2bbc8a" />
         </a>
       </p>
-      <p>Python GUI application for automated account generation with management features. Built with modern UI supporting dark/light themes.</p>
+      <p align="center">Python GUI application for automated account generation with management features. Built with modern UI supporting dark/light themes.</p>
     </td>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/Soozu/ecommerce">E-commerce Platform</a></h3>
@@ -141,7 +188,7 @@ const soozu = {
           <img src="https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a" />
         </a>
       </p>
-      <p>A robust e-commerce platform built with PHP, MySQL, and HTML/CSS that provides essential features for running an online store.</p>
+      <p align="center">A robust e-commerce platform built with PHP, MySQL, and HTML/CSS that provides essential features for running an online store.</p>
     </td>
   </tr>
   <tr>
@@ -155,7 +202,7 @@ const soozu = {
           <img src="https://img.shields.io/badge/Tech-WebSocket-informational?style=flat&logo=websocket&logoColor=white&color=2bbc8a" />
         </a>
       </p>
-      <p>Secure remote desktop management solution for controlling computers remotely using PHP and WebSocket technology.</p>
+      <p align="center">Secure remote desktop management solution for controlling computers remotely using PHP and WebSocket technology.</p>
     </td>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/Soozu/LMS-STTMS">LMS-STTMS</a></h3>
@@ -167,7 +214,7 @@ const soozu = {
           <img src="https://img.shields.io/badge/Stack-MERN-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a" />
         </a>
       </p>
-      <p>Learning Management System built with modern web technologies including JavaScript, Node.js, Express, and MongoDB.</p>
+      <p align="center">Learning Management System built with modern web technologies including JavaScript, Node.js, Express, and MongoDB.</p>
     </td>
   </tr>
 </table>
@@ -178,14 +225,19 @@ const soozu = {
   </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-## ⚡ Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Working on new features for my projects
-2. 🌱 Learning advanced React.js techniques
-3. 🔨 Contributing to open source
-<!--END_SECTION:activity-->
+## <div align="center">⚡ Recent Activity</div>
+
+<div align="center">
+  <!--START_SECTION:activity-->
+  1. 🎉 Working on new features for my projects
+  2. 🌱 Learning advanced React.js techniques
+  3. 🔨 Contributing to open source
+  <!--END_SECTION:activity-->
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Soozu&style=flat-square&color=blue" alt="Profile views"/>
