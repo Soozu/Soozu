@@ -103,34 +103,6 @@ const soozu = {
 </div>
 
 <div align="center">
-  <h3>King's GitHub Stats</h3>
-  <table>
-    <tr>
-      <td>
-        <p align="center">
-          <b>Total Contributions</b><br>
-          218
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <b>Current Streak</b><br>
-          1
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <b>Longest Streak</b><br>
-          4
-        </p>
-      </td>
-    </tr>
-  </table>
-
-  <div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  </div>
-
   <h3 align="center">Most Used Languages</h3>
   <p align="center">
     PHP: 58.09% | CSS: 4.16%<br/>
