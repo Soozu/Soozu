@@ -99,19 +99,6 @@ const soozu = {
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Soozu&theme=radical&column=7&margin-w=15" alt="Soozu's GitHub Trophy" />
-</div>
-
-<div align="center">
-  <h3 align="center">Most Used Languages</h3>
-  <p align="center">
-    PHP: 58.09% | CSS: 4.16%<br/>
-    JavaScript: 29.88% | Python: 0.64%<br/>
-    Fluent: 6.99% | TypeScript: 0.24%
-  </p>
-</div>
-
-<div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
