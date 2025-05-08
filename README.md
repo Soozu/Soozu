@@ -18,30 +18,31 @@ Tools: Git, GitHub, VS Code
 
 ## 📊 GitHub Stats
 
-![Soozu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)](https://git.io/streak-stats)
+![Soozu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soozu&show_icons=true&theme=radical)
 
 ## 📫 Connect With Me
 
 - LinkedIn: [Your LinkedIn](#)
-- Twitter: [@YourTwitter](#)
-- Portfolio: [yourwebsite.com](#)
+- Instagram: [@soozuu1](https://www.instagram.com/soozuu1/)
+- Portfolio: [soozu.vercel.app](https://soozu.vercel.app/)
 
 ## 🚀 Projects
 
-### Project 1
-Description of your awesome project here
+### [Stove Account Generator](https://github.com/Soozu/stove-account-generator)
+Python GUI application for automated account generation with management features. Built with Python and modern UI with dark/light themes.
 
-### Project 2
-Description of another great project
+### [E-commerce Platform](https://github.com/Soozu/ecommerce)
+A robust e-commerce platform built with PHP, MySQL, and HTML/CSS that provides essential features for running an online store.
+
+### [Remote PC Manager](https://github.com/Soozu/Remote-pc)
+Secure remote desktop management solution for controlling computers remotely.
+
+### [Tournament Manager](https://github.com/Soozu/Tournamenr-manager)
+Comprehensive tournament management system for organizing competitive events.
+
+### [LMS-STTMS](https://github.com/Soozu/LMS-STTMS)
+Learning Management System built with modern web technologies.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat">
-</p>
-
-⭐️ From [Soozu](https://github.com/YOUR_USERNAME) 
+⭐️ From [Soozu](https://github.com/Soozu) 
