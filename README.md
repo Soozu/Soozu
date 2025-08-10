@@ -201,7 +201,7 @@
 ## <div align="center">📈 Contributions</div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soozu&theme=radical&hide_border=true&area=true&custom_title=Monthly%20Contributions&bg_color=0d1117&color=ff6b6b&line=61dafb&point=ffffff&hide_border=true&area=true&area_color=61dafb&area_opacity=0.3" alt="Soozu's Monthly Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soozu&theme=radical&hide_border=true&area=true&contribution_graph=monthly" alt="Soozu's Monthly Contribution Graph" />
 </div>
 
 <div align="center">
